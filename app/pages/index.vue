@@ -6,7 +6,7 @@
         otenki_web
       </h1>
       <h2 class="subtitle">
-        My unreal Nuxt.js project
+        My beautiful Nuxt.js project
       </h2>
       <div class="links">
         <a
