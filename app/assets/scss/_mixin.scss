@@ -1,0 +1,7 @@
+@mixin fts($fts, $lin: 24) {
+	$rem: $fts / 10;
+	$linS: $lin / $fts;
+	font-size: #{$fts}px;
+	font-size: #{$rem}rem;
+	line-height: $linS;
+}

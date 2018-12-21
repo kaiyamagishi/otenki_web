@@ -27,6 +27,8 @@ module.exports = {
   ** Global CSS
   */
   css: [
+    'bulma',
+    '@/assets/scss/common.scss'
   ],
 
   /*
